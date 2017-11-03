@@ -1,2 +1,1 @@
-³ÌÐòÔËÐÐÐèMySQL»·¾³£¬MySQLÁ¬½ÓÓÃ»§ÃûºÍÃÜÂë¾ùÎª¡°root¡±(²»º¬ÒýºÅ)
-²¢ÇÒÔËÐÐÇ°Ðè½¨Á¢Ò»¸öaddress_bookµÄdatabase,²¢ÔÚÆäÖÐ½¨Á¢Ò»¸ö°üº¬¡°id¡±¡¢"name"¡¢"phone_num"µÄÃûÎª¡°book¡±µÄtable(×Ö¶ÎÃû¾ù²»º¬ÒýºÅ)
+ç¨‹åºè¿è¡Œéœ€MySQLçŽ¯å¢ƒï¼ŒMySQLè¿žæŽ¥ç”¨æˆ·åå’Œå¯†ç å‡ä¸ºâ€œrootâ€(ä¸å«å¼•å·)ï¼Œå¹¶ä¸”è¿è¡Œå‰éœ€å»ºç«‹ä¸€ä¸ªaddress_bookçš„database,å¹¶åœ¨å…¶ä¸­å»ºç«‹ä¸€ä¸ªåŒ…å«â€œidâ€ã€"name"ã€"phone_num"çš„åä¸ºâ€œbookâ€çš„table(å­—æ®µåå‡ä¸å«å¼•å·)
